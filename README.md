@@ -12,5 +12,5 @@ Slack https://slack.com/policies
 * Privacy Policy
 * Transparency Report
 * Request for User Data Policy
-* Security Practices
+* [Security Practices](SecurityPractices.md)
 * Report a Vulnerability
